@@ -1,0 +1,7 @@
+symbol,company,category,price,market_cap,dividend_yield,exchange 
+AAPL,Apple Inc,Technology,270.50,4000000000000,0.40,NASDAQ 
+MSFT,Microsoft,Technology,500.00,3700000000000,0.70,NASDAQ 
+NVDA,NVIDIA,Technology,180.00,4400000000000,0.03,NASDAQ 
+JPM,JPMorgan Chase,Financial,300.00,800000000000,2.00,NYSE 
+XOM,Exxon Mobil,Energy,110.00,470000000000,3.50,NYSE 
+VOO,Vanguard S&P 500 ETF,ETF,620.00,70000000000,1.20,NYSE 
